@@ -1,7 +1,7 @@
 <div align='center'>
-  <p>PAGES</p>
+  <h2>PAGES</h2>
 </div>
-<table>
+<table align='center'>
   <tr>
     <td align="center">
       <h3>Home Page</h3>
